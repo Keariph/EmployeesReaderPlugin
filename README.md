@@ -5,7 +5,7 @@ The library that downloads new users from the [API](https://dummyjson.com/users)
 
 ### Used technologies:
 - Visual Studio 2022
-- .Net 8.0
+- .Net
 
 
 ## How to use 
