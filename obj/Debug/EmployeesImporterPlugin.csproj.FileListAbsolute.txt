@@ -1,0 +1,17 @@
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\EmployeesLoader.Plugin.dll
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\EmployeesViewer.Plugin.dll
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\EmployeesViewer.Plugin.pdb
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\EmployeesReader.Plugin.dll
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\EmployeesReader.Plugin.pdb
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\Newtonsoft.Json.dll
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\PhoneApp.exe
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\NLog.dll
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\PhoneApp.pdb
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\PhoneApp.exe.config
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\Newtonsoft.Json.xml
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\bin\Debug\NLog.xml
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\obj\Debug\EmployeesImporterPlugin.csproj.AssemblyReference.cache
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\obj\Debug\EmployeesImporterPlugin.csproj.CoreCompileInputs.cache
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\obj\Debug\Employee.D66EAFD0.Up2Date
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\obj\Debug\EmployeesReader.Plugin.dll
+D:\Программирование\PhonePluginsApplication\EmployeesImporterPlagin\obj\Debug\EmployeesReader.Plugin.pdb
